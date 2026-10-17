@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Mary Ann monogram</title>
+  <desc id="desc">A forest green rounded logo with an interlocking gold and cream MA monogram and a creative spark.</desc>
+  <defs>
+    <linearGradient id="forest" x1="36" y1="24" x2="220" y2="232" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2f4f35"/>
+      <stop offset="1" stop-color="#182b1d"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="58" y1="74" x2="132" y2="184" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#eadb70"/>
+      <stop offset="1" stop-color="#d5bd2b"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="240" height="240" rx="72" fill="url(#forest)"/>
+  <circle cx="128" cy="128" r="91" fill="none" stroke="#bfd0b7" stroke-opacity=".18" stroke-width="2"/>
+  <path d="M50 181V78c0-5 6-7 9-3l41 58 39-58c3-5 10-2 10 3v103" fill="none" stroke="url(#gold)" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M117 181 164 76c2-5 9-5 11 0l42 105M137 139h60" fill="none" stroke="#f8f8f2" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M203 39v24M191 51h24" stroke="#d5bd2b" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="218" cy="72" r="4" fill="#eadb70"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Mary Ann circular monogram</title>
+  <desc id="desc">A cream circular emblem with a forest green and gold MA monogram, a pencil-nib center, and a small leaf accent.</desc>
+  <defs>
+    <linearGradient id="cream" x1="56" y1="34" x2="204" y2="224" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#edf3e9"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="128" y1="62" x2="177" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#eadb70"/>
+      <stop offset="1" stop-color="#d5bd2b"/>
+    </linearGradient>
+  </defs>
+  <circle cx="128" cy="128" r="118" fill="url(#cream)" stroke="#203a27" stroke-width="10"/>
+  <circle cx="128" cy="128" r="98" fill="none" stroke="#86a881" stroke-opacity=".38" stroke-width="3" stroke-dasharray="5 10"/>
+  <path d="M47 178V91c0-5 6-7 9-3l41 55 34-48" fill="none" stroke="#203a27" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m109 181 50-111c2-5 9-5 11 0l45 111M132 139h63" fill="none" stroke="url(#sun)" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M159 70 170 94h-22l11-24Z" fill="#203a27"/>
+  <circle cx="159" cy="88" r="4" fill="#f8f8f2"/>
+  <path d="M55 196c19-3 31-14 38-31-19 2-33 12-38 31Z" fill="#86a881"/>
+  <path d="M57 194c11-8 20-15 32-25" fill="none" stroke="#203a27" stroke-width="3" stroke-linecap="round"/>
+</svg>
